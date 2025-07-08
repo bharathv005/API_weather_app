@@ -15,11 +15,17 @@ A simple and beautiful weather application built using **HTML**, **CSS**, and **
 
 ---
 
-## 📸 Demo
+## 🔗 Live Demo
+
+👉 [Click here to view the live app](https://bvkweatherapp.ccbp.tech)
+
+---
+
+## 📸 Preview
 
 ![Weather App Screenshot](https://user-images.githubusercontent.com/your-screenshot-url/weather-app-demo.png)
 
-> *(Add a real screenshot of your app after uploading to GitHub)*
+> *(You can upload a screenshot later and update the link above)*
 
 ---
 
