@@ -13,11 +13,6 @@ A simple and beautiful weather application built using **HTML**, **CSS**, and **
 - 📊 Shows air quality index (US-EPA standard).
 - 🖥️ Fully responsive and user-friendly design.
 
----
-
-## 🔗 Live Demo
-
-👉 [Click here to view the live app](https://bvkweatherapp.ccbp.tech)
 
 ---
 
