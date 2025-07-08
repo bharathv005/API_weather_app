@@ -21,14 +21,6 @@ A simple and beautiful weather application built using **HTML**, **CSS**, and **
 
 ---
 
-## 📸 Preview
-
-![Weather App Screenshot](https://user-images.githubusercontent.com/your-screenshot-url/weather-app-demo.png)
-
-> *(You can upload a screenshot later and update the link above)*
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
